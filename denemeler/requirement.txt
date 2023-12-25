@@ -1,6 +1,6 @@
 streamlit == 1.29.0
 plotly==5.18.0
 pandas==2.1.1
-pip install joblib
-joblib
+joblib ==1.3.2
 scikit-learn==1.3.1
+python
